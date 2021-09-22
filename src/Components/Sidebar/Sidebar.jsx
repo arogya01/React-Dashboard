@@ -9,10 +9,7 @@ import {
   AttachMoney,
   BarChart,
   MailOutline,
-  DynamicFeed,
   ChatBubbleOutline,
-  WorkOutline,
-  Report,
 } from "@material-ui/icons";
 
 export const Sidebar = () => {
@@ -36,11 +33,11 @@ export const Sidebar = () => {
             </li>
           </ul>
         </div>
-      </div>
         <div className="sidebarMenu">
           <h3 className="sidebarTitle">Quick Menu</h3>
           <ul className="sidarbarList">
-            <li className="sidebarListItem  active">
+            <li className="sidebarListItem
+            MailOutline,">
               <PermIdentity className="sidebarIcon" />
               Users
             </li>
@@ -61,7 +58,8 @@ export const Sidebar = () => {
         <div className="sidebarMenu">
           <h3 className="sidebarTitle">Notifications</h3>
           <ul className="sidarbarList">
-            <li className="sidebarListItem  active">
+            <li className="sidebarListItem
+            MailOutline,">
               <MailOutline className="sidebarIcon" />
               Mail
             </li>
@@ -71,6 +69,7 @@ export const Sidebar = () => {
             </li>
           </ul>
       </div>
+    </div>
     </div>
   );
 };
