@@ -20,13 +20,28 @@
 }
 
 .featuredMoney{
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: bold;
 }
 
 .featuredMoneyRate{
     display: flex;
     align-items: center;
-    justify-content: center;
+    
+    margin-left: 1rem;
+}
+
+.featuredIcon{
+    font-size: 1rem;
     margin-left: 5px;
+    color:lightgreen;
+}
+
+.featuredIcon.negative{
+    color:#ff0000; 
+}
+
+.featuredSub{
+    font-size: 1rem;
+    color:#d3d3d3;
 }
