@@ -14,7 +14,7 @@ export const Home = () => {
             <div className="homeWidgets">
               <WidgetSm />
               <WidgetLg/>
-            </div>
+             </div>
         </div> 
     )
 }

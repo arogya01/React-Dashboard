@@ -4,6 +4,5 @@ React admin dasboard created using Reactjs,MaterialUI and REcharts.
 
 ## Description of different components and pages created to build the dasboard
 
-### Home Page
+### Home Page (In Process)
 
-first off, we've the topbar(navbar) and sidebar
