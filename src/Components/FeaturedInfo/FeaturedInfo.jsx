@@ -1,5 +1,5 @@
 import "./FeaturedInfo.css";
-import { ArrowDownward, ArrowUpward } from "@material-ui/icons";
+import { ArrowDownward, ArrowUpward } from "@mui/icons-material";
 
 export const FeaturedInfo = () => {
   return (

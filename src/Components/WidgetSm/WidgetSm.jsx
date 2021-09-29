@@ -1,5 +1,5 @@
 import "./WidgetSm.css";
-import { Visibility } from "@material-ui/icons";
+import { Visibility } from "@mui/icons-material";
 
 export const WidgetSm = () => {
   return (

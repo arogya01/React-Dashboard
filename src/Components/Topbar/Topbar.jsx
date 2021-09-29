@@ -1,7 +1,7 @@
 import React from "react";
 import './Topbar.css';
-import FlashOnTwoToneIcon from '@material-ui/icons/FlashOnTwoTone';
-import {NotificationsNone,Language,Settings} from '@material-ui/icons';
+import FlashOnRoundedIcon from '@mui/icons-material/FlashOnRounded';
+import {NotificationsNone,Language,Settings} from '@mui/icons-material';
 import ProfileImg from '../../Assets/Profile.png';
 
 
@@ -10,7 +10,7 @@ export const Topbar = () => {
     <div className="topbar">
       <div className="topbarWrapper" >
         <div className="topLeft">
-            <FlashOnTwoToneIcon fontSize='large' />
+            <FlashOnRoundedIcon fontSize='large' />
             <p>ReactD</p>
             </div>
         <div className="topRight">

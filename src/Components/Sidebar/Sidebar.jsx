@@ -10,7 +10,7 @@ import {
   BarChart,
   MailOutline,
   ChatBubbleOutline,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 export const Sidebar = () => {
   return (
