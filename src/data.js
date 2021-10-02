@@ -1,3 +1,5 @@
+import ProfileImg from './Assets/Profile.png';
+
 export const userData = [
     {
       name: "Jan",
@@ -49,3 +51,96 @@ export const userData = [
     },
   ];
   
+
+export const userRows=[
+  {
+    id:1,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:2,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:3,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:4,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:5,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:6,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:7,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:8,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:9,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+  {
+    id:10,
+    username:'arogya',
+    avatar:ProfileImg,
+    email:'arogya@gmail.com',
+    status:'active',
+    transaction:'$120.00'
+
+  },
+]
