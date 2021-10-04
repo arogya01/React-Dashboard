@@ -19,7 +19,7 @@ function App() {
           <Route path="/users">
             <UserList />
           </Route>
-          <Route path="/users/:userId">
+          <Route path="/user/:userId">
             <Users />
           </Route>
         </Switch>
