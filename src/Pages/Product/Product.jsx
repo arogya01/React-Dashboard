@@ -3,7 +3,7 @@ import './Product.css';
 
 export const Product = () => {
     return (
-        <div>
+        <div className='product'>
             
         </div>
     )

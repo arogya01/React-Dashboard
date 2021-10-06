@@ -18,7 +18,7 @@ function App() {
         <Sidebar />
         <Switch>
           <Route path="/" exact>
-            <Home />
+            <Home id='home' />
           </Route>
           <Route path="/users">
             <UserList />
