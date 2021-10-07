@@ -7,7 +7,7 @@ import {NewUser} from './Pages/NewUser/NewUser';
 import {ProductList} from './Pages/ProductList/ProductList';
 import {Product} from './Pages/Product/Product';
 import {NewProduct} from './Pages/NewProduct/NewProduct';
-import "./app.css";
+import "./App.css";
 import { BrowserRouter as Router, Switch,  Route } from "react-router-dom";
 
 function App() {
